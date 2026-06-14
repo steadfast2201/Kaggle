@@ -1,0 +1,8 @@
+/ARC-AGI
+
+/venv
+
+**/Data/
+
+**/train.csv
+**/test.csv
